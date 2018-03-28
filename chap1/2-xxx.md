@@ -1,4 +1,4 @@
 ### react 学习
 ``` js
-console.log("hello")
+console.log("hello2")
 ```
